@@ -13,8 +13,9 @@ body {
 }
 
 #display {
-  width: 100%;
-  margin-bottom: 10px;
+  width: 60%;
+  margin: 10px;
+  margin-right: non;
   padding: 10px;
   font-size: 20px;
 }
@@ -28,5 +29,10 @@ body {
 button {
   width: 100%;
   padding: 10px;
+  font-size: 18px;
+}
+
+.clearButton {
+  width: 70px;
   font-size: 18px;
 }
